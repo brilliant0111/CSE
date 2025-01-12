@@ -56,7 +56,7 @@
         },
         {
           "appearance" : "contrast",
-          "value" : "high"
+          "value" : "medium "
         }
       ],
       "color" : {
@@ -73,6 +73,6 @@
   ],
   "info" : {
     "author" : "xcode",
-    "version" : 1
+    "version" : 2
   }
 }
